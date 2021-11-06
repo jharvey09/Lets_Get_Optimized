@@ -12,9 +12,10 @@ Assets span Cryptocurrency and traditional assets (stocks)
 Apply portfolio optimization methods and forecasting methods
 
 ### Assets
-***Cryptocurrency***
+***Cryptocurrency:***
 Bitcoin (BTC) | Ripple (XRP) | Cardona (ADA) | Litecoin (LTC) | BinanceCoin (BNB) |  DogeCoin (DOGE) | Uniswap (UNI) | CryptocomCoin (CRO) | Ethereum (ETH) | Solana (SOL)
-***Traditional***
+
+***Traditional:***
 Apple (AAPL) | Tesla (TSLA) | Google (GOOG) | Amazon (AMZN) | Bank of America (BAC) | Costco (COST) | Disney (DISN) | Domnioes Pizza (DPZ) Coca-Cola (KO) |  Microsoft (MSFT)
 Nordic American Tanker (NAT) |Starbucks (SBUX) 
 
