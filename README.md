@@ -17,7 +17,7 @@ Bitcoin (BTC) | Ripple (XRP) | Cardona (ADA) | Litecoin (LTC) | BinanceCoin (BNB
 
 ***Traditional:***
 Apple (AAPL) | Tesla (TSLA) | Google (GOOG) | Amazon (AMZN) | Bank of America (BAC) | Costco (COST) | Disney (DISN) | Domnioes Pizza (DPZ) Coca-Cola (KO) |  Microsoft (MSFT)
-Nordic American Tanker (NAT) |Starbucks (SBUX) 
+Nordic American Tanker (NAT) | Starbucks (SBUX) 
 
 ### Approach
 
